@@ -1,1 +1,1 @@
-# DojoBowling
+# Dojo Training

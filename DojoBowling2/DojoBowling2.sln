@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DojoBowling2", "DojoBowling2\DojoBowling2.csproj", "{E24C4509-A3D6-4CF0-98F4-03033EEE24E1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{FB73437B-075B-443F-BDC6-9995255594FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E24C4509-A3D6-4CF0-98F4-03033EEE24E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E24C4509-A3D6-4CF0-98F4-03033EEE24E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E24C4509-A3D6-4CF0-98F4-03033EEE24E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E24C4509-A3D6-4CF0-98F4-03033EEE24E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB73437B-075B-443F-BDC6-9995255594FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB73437B-075B-443F-BDC6-9995255594FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB73437B-075B-443F-BDC6-9995255594FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB73437B-075B-443F-BDC6-9995255594FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
