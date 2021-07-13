@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChangeLogger", "ChangeLogger\ChangeLogger.csproj", "{52AE02B5-C560-4C09-8CA1-A7780D88C87A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bitbucket.Cloud.Net", "Bitbucket.Cloud.Net\Bitbucket.Cloud.Net.csproj", "{6630689E-ED30-4111-BBB2-9C7DE260227B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52AE02B5-C560-4C09-8CA1-A7780D88C87A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52AE02B5-C560-4C09-8CA1-A7780D88C87A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52AE02B5-C560-4C09-8CA1-A7780D88C87A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52AE02B5-C560-4C09-8CA1-A7780D88C87A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6630689E-ED30-4111-BBB2-9C7DE260227B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6630689E-ED30-4111-BBB2-9C7DE260227B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6630689E-ED30-4111-BBB2-9C7DE260227B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6630689E-ED30-4111-BBB2-9C7DE260227B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
